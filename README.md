@@ -4,7 +4,7 @@ This is my solution for PE PRO192 in SP24. You can clone this project, and repor
 
 **1. How to use this code**
 
-- This is assuming you already have git. If not, [install here]https://git-scm.com/downloads 
+- This is assuming you already have git. If not, [install here](https://git-scm.com/downloads) 
 
         ```bash
             cd <Your_Working_Directory>
